@@ -189,13 +189,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 **Team**
 
-- **Developer**: [Your Name]
-- **Design**: [Designer Name]
-- **Backend**: [Backend Developer Name]
+- **Developer, Design, Backend**: Darshana Ojha
 
 ## 📞 **Support**
 
-For support, email [your-email@example.com] or create an issue in this repository.
+For support, email [ojhadarshana30@gmail.com] or create an issue in this repository.
 
 ## 🙏 **Acknowledgments**
 

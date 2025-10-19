@@ -93,3 +93,9 @@ lib/generated_plugin_registrant.dart
 
 # Local configuration
 config/local.dart
+
+# Keystore files (NEVER commit these!)
+*.keystore
+*.jks
+key.properties
+android/key.properties
