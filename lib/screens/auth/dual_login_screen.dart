@@ -24,16 +24,27 @@ class DualLoginScreen extends StatelessWidget {
                 children: [
                   // Logo and Title
                   Container(
-                    width: 80,
-                    height: 80,
-                    decoration: BoxDecoration(
-                      color: const Color(0xFF4A90E2),
-                      borderRadius: BorderRadius.circular(40),
-                    ),
-                    child: const Icon(
-                      Icons.rocket_launch,
-                      color: Colors.white,
-                      size: 40,
+                    width: 120,
+                    height: 120,
+                    child: Image.asset(
+                      'assets/logos/app_logo.png',
+                      fit: BoxFit.contain,
+                      errorBuilder: (context, error, stackTrace) {
+                        // Fallback to icon if logo not found
+                        return Container(
+                          width: 80,
+                          height: 80,
+                          decoration: BoxDecoration(
+                            color: const Color(0xFF4A90E2),
+                            borderRadius: BorderRadius.circular(40),
+                          ),
+                          child: const Icon(
+                            Icons.rocket_launch,
+                            color: Colors.white,
+                            size: 40,
+                          ),
+                        );
+                      },
                     ),
                   ),
                   const SizedBox(height: 24),

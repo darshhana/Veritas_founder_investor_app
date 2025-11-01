@@ -99,3 +99,14 @@ config/local.dart
 *.jks
 key.properties
 android/key.properties
+
+# FVM Version Cache
+.fvm/
+
+# Documentation files (excluding main release docs)
+*.md
+!README.md
+!COMPLETE_APP_FLOW_EXPLANATION.md
+!RELEASE_NOTES.md
+!LICENSE
+!assets/**/*.md
