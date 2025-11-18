@@ -51,7 +51,7 @@ VERITAS is an AI-powered investment platform that connects founders raising capi
 <div align="center">
 
 #### Screenshot 1
-<img src="WhatsApp Image 2025-11-19 at 02.02.19.jpeg" alt="VERITAS App Screenshot 1" width="300"/>
+<img src="WhatsApp Image 2025-11-19 at 02.02.19 (1).jpeg" alt="VERITAS App Screenshot 1" width="300"/>
 
 #### Screenshot 2
 <img src="WhatsApp Image 2025-11-19 at 02.02.19 (1).jpeg" alt="VERITAS App Screenshot 2" width="300"/>
