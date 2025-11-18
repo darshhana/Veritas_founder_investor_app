@@ -9,19 +9,20 @@ A comprehensive Flutter mobile application that revolutionizes the fundraising a
 ## 📋 Table of Contents
 
 1. [Overview](#overview)
-2. [Features](#features)
-3. [Architecture](#architecture)
-4. [Tech Stack](#tech-stack)
-5. [Installation & Setup](#installation--setup)
-6. [Backend Integration](#backend-integration)
-7. [Firestore Collections](#firestore-collections)
-8. [API Endpoints](#api-endpoints)
-9. [Data Models](#data-models)
-10. [Project Structure](#project-structure)
-11. [User Flows](#user-flows)
-12. [Build & Deployment](#build--deployment)
-13. [Configuration](#configuration)
-14. [Contributing](#contributing)
+2. [Screenshots](#screenshots)
+3. [Features](#features)
+4. [Architecture](#architecture)
+5. [Tech Stack](#tech-stack)
+6. [Installation & Setup](#installation--setup)
+7. [Backend Integration](#backend-integration)
+8. [Firestore Collections](#firestore-collections)
+9. [API Endpoints](#api-endpoints)
+10. [Data Models](#data-models)
+11. [Project Structure](#project-structure)
+12. [User Flows](#user-flows)
+13. [Build & Deployment](#build--deployment)
+14. [Configuration](#configuration)
+15. [Contributing](#contributing)
 
 ---
 
@@ -40,6 +41,40 @@ VERITAS is an AI-powered investment platform that connects founders raising capi
 - **Ground Truth Verification**: Automated claim verification and discrepancy detection
 - **Explainable AI**: Transparent AI decision-making with detailed insights
 - **Interview Automation**: AI-powered interview scheduling and transcript analysis
+
+---
+
+## 📸 Screenshots
+
+### App UI Screenshots
+
+<div align="center">
+
+#### Screenshot 1
+<img src="WhatsApp Image 2025-11-19 at 02.02.19.jpeg" alt="VERITAS App Screenshot 1" width="300"/>
+
+#### Screenshot 2
+<img src="WhatsApp Image 2025-11-19 at 02.02.19 (1).jpeg" alt="VERITAS App Screenshot 2" width="300"/>
+
+#### Screenshot 3
+<img src="WhatsApp Image 2025-11-19 at 02.02.19 (2).jpeg" alt="VERITAS App Screenshot 3" width="300"/>
+
+#### Screenshot 4
+<img src="WhatsApp Image 2025-11-19 at 02.02.20.jpeg" alt="VERITAS App Screenshot 4" width="300"/>
+
+#### Screenshot 5
+<img src="WhatsApp Image 2025-11-19 at 02.02.20 (1).jpeg" alt="VERITAS App Screenshot 5" width="300"/>
+
+#### Screenshot 6
+<img src="WhatsApp Image 2025-11-19 at 02.02.21.jpeg" alt="VERITAS App Screenshot 6" width="300"/>
+
+#### Screenshot 7
+<img src="WhatsApp Image 2025-11-19 at 02.02.22.jpeg" alt="VERITAS App Screenshot 7" width="300"/>
+
+#### Screenshot 8
+<img src="WhatsApp Image 2025-11-19 at 02.02.23.jpeg" alt="VERITAS App Screenshot 8" width="300"/>
+
+</div>
 
 ---
 
@@ -842,6 +877,8 @@ founder_investor_app/
 │   ├── logos/
 │   │   └── app_logo.png             # App logo (512x512 or larger)
 │   └── images/                      # Other images
+├── images/                          # Portfolio/screenshot images
+│   └── [WhatsApp screenshots]       # App screenshots and portfolio images
 │
 ├── android/                         # Android configuration
 │   ├── app/
